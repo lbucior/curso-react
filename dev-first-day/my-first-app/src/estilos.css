@@ -1,0 +1,13 @@
+/* In your CSS */
+
+.button {
+    border-radius: 10px;
+    background-color: #58c4dc;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
